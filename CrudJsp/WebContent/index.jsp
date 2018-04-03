@@ -9,6 +9,7 @@
 <body>
 
 <h1> WelCome To JSP EXample</h1>
+<p>This is a basic Jsp Servlet based Application Which perform the CRUD operations.</p>
 <a href="login.jsp">Login</a><br>
 <a href="userform.html">Add User</a><br>
 <a href="viewuser.jsp">View User</a><br>
